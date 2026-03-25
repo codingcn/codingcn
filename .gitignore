@@ -1,15 +1,1 @@
-storage/
 .idea
-*.log
-deploy/docker-compose/conf
-deploy/docker-compose/data
-cache
-data
-bin
-vendor
-.DS_Store
-*venv
-.vscode
-examples/
-ai_debt.pdf
-.superpowers

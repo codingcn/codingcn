@@ -20,6 +20,22 @@
 
 ---
 
+## ⭐ Open Source Highlights
+
+<div align="center">
+
+<a href="https://github.com/go-nunu/nunu"><img src="https://img.shields.io/github/stars/go-nunu/nunu?style=for-the-badge&logo=github&label=Nunu&color=f5c542&labelColor=333" alt="Nunu Stars" /></a>
+<a href="https://github.com/go-nunu/nunu-layout-admin"><img src="https://img.shields.io/github/stars/go-nunu/nunu-layout-admin?style=for-the-badge&logo=github&label=Nunu%20Admin&color=f5c542&labelColor=333" alt="Nunu Admin Stars" /></a>
+<a href="https://github.com/go-nunu/nunu-layout-advanced"><img src="https://img.shields.io/github/stars/go-nunu/nunu-layout-advanced?style=for-the-badge&logo=github&label=Nunu%20Advanced&color=f5c542&labelColor=333" alt="Nunu Advanced Stars" /></a>
+
+<br/>
+
+<img src="https://api.star-history.com/svg?repos=go-nunu/nunu&type=Date" width="700" alt="Star History" />
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
