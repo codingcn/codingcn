@@ -1,6 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=220&section=header&text=Hello%2C%20I'm%20Chris&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Focusing%20on%20Go%20%26%20Open%20Source&descSize=18&descAlignY=52&descColor=ffffff" width="100%"/>
-
 <div align="center">
+
+# Hi there, I'm Chris 👋
+
+### 🎯 Focusing on Go & Open Source
+
+> *取经之路，就在脚下。*
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/codingcn?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/codingcn?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/codingcn?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/codingcn?tab=repositories)
@@ -142,8 +148,6 @@
 
 <div align="center">
 
-**"取经之路，就在脚下。"**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
+⭐ **If you find my projects helpful, please consider giving them a star!** ⭐
 
 </div>
