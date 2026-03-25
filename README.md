@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,30:FFD93D,60:6BCB77,100:4D96FF&height=220&section=header&text=Hello,%20I'm%20Chris&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Focusing%20on%20Go%20%26%20Open%20Source&descSize=18&descAlignY=52&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=220&section=header&text=Hello%2C%20I'm%20Chris&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Focusing%20on%20Go%20%26%20Open%20Source&descSize=18&descAlignY=52&descColor=ffffff" width="100%"/>
 
 <div align="center">
 
@@ -59,16 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=codingcn&theme=flat&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -99,6 +89,36 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codingcn/codingcn/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/codingcn/codingcn/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codingcn&theme=minimal&hide_border=true&area=true&area_color=6BCB77)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
+
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder" alt="Jokes Card" />
 
 </div>
 
